@@ -1,0 +1,1 @@
+ls -lah /home/rogergs/.local/share/Trash/files/OINTS,PARTUUID
